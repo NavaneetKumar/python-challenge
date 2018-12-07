@@ -16,7 +16,7 @@ def CountVote(name,vote=1):
 
 
 # Set path for file
-csvpath = os.path.abspath("C:/BootCamp/PREWORK_NK/Python Home work/election_data.csv")
+csvpath = os.path.abspath("election_data.csv")
 
 # Set variables
 totvote = 0

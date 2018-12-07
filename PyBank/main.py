@@ -3,7 +3,7 @@ import os
 import csv
 
 # Set path for file
-csvpath = os.path.abspath("C:/BootCamp/PREWORK_NK/Python Home work/budget_data.csv")
+csvpath = os.path.abspath("budget_data.csv")
 
 # Set variables
 # Month count
